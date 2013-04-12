@@ -1,0 +1,2 @@
+javacodingspot-osgi
+===================
